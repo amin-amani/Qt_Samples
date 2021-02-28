@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>objects/ball.obj</file>
+        <file>Lights.qml</file>
+        <file>BasicCamera.qml</file>
+        <file>objects/toyplane.obj</file>
+    </qresource>
+</RCC>
